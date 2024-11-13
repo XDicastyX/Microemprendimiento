@@ -65,7 +65,7 @@ body {
     font-weight: 600;
 }
 .menu .navbar ul li a:hover{
-    color: #404040;
+    color: #5271FD;
 }
 
 #menu {
@@ -342,7 +342,7 @@ p {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #f5d03b;
+        background-color: #1047AC;
         display: none;
     }
     .menu .navbar ul li {
@@ -350,7 +350,7 @@ p {
     }
 
     .menu .navbar ul li a{
-        color: #262626;
+        color: #ffffff;
     }
 
     #menu:checked ~ .navbar{
